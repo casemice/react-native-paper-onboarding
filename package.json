@@ -41,7 +41,7 @@
   "dependencies": {
     "lodash.isequal": "^4.5.0",
     "react-native-redash": "^14.2.4",
-    "react-native-svg": "^12.1.1"
+    "react-native-svg": "13.4.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^12.1.4",
@@ -62,7 +62,7 @@
     "react-native-builder-bob": "^0.18.1",
     "react-native-gesture-handler": "^1.10.3",
     "react-native-reanimated": "^1.13.3",
-    "react-native-svg": "^12.1.1",
+    "react-native-svg": "13.4.0",
     "release-it": "^14.9.0",
     "typescript": "^3.3.2"
   },
@@ -71,7 +71,7 @@
     "react-native": "*",
     "react-native-gesture-handler": "^1.10.3",
     "react-native-reanimated": "^1.13.3",
-    "react-native-svg": "^12.1.1"
+    "react-native-svg": "13.4.0"
   },
   "husky": {
     "hooks": {
